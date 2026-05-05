@@ -1,1 +1,3 @@
-<img src="real.jpg" style="display: block; margin: 0 auto; width: 55%;" />
+<p align="center">
+  <img src="real.jpg" width="50%" />
+</p>
